@@ -5,3 +5,7 @@ This is my Python GitHub Template. It contains:
 3. GitHub Actions for CI/CD
 4. requirements.txt for project dependencies
 
+## setup and usage instructions
+1. make format
+2. make lint
+3. make test
