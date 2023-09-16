@@ -1,3 +1,4 @@
+[![CI](https://github.com/nogibjj/week1_python_template/actions/workflows/blank.yml/badge.svg)](https://github.com/nogibjj/week1_python_template/actions/workflows/blank.yml)
 # week1_python_template
 This is my Python GitHub Template. It contains:
 1. .devcontainer configuration for a Python environment
